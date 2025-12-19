@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # ================== НАСТРОЙКИ ==================
 
-BOT_TOKEN = "8473905923:AAFwqkHnuZRkYWXRBUbvP72OP9ii1P-G898"
+BOT_TOKEN = "8473905923:AAHkAFPuw3klLmhLpNAT21oGqQZzTOReVTM"
 
 ADMIN_CHAT_ID = -1003669017168  # ID группы / чата для обращений
 
@@ -103,3 +103,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
